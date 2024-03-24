@@ -1,1 +1,1 @@
-# prototype2
+# valorant_store_notifier
